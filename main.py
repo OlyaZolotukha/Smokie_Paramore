@@ -1,4 +1,6 @@
 print('hello world')
 print('hello')
 print('hello python')
-print('Vasya')
+print('hello python')
+print('hello python')
+print('hello python')
